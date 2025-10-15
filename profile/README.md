@@ -4,9 +4,9 @@ Este espacio está dedicado al desarrollo profesional en tecnologías web modern
 
 💻 **Tecnologías y enfoques destacados:**
 
-1-  *React.js para la construcción de interfaces dinámicas y eficientes.*
+* *React.js para la construcción de interfaces dinámicas y eficientes.*
 
-*- *Testing orientado al desarrollo (TDD) para asegurar código confiable y con bajo acoplamiento.*
+* *Testing orientado al desarrollo (TDD) para asegurar código confiable y con bajo acoplamiento.*
 
 * *Arquitectura limpia (Clean Architecture) y principios SOLID para promover un código modular, desacoplado y fácil de escalar.*
 
