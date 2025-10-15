@@ -8,11 +8,11 @@ Este espacio está dedicado al desarrollo profesional en tecnologías web modern
 
 *- *Testing orientado al desarrollo (TDD) para asegurar código confiable y con bajo acoplamiento.*
 
-*- *Arquitectura limpia (Clean Architecture) y principios SOLID para promover un código modular, desacoplado y fácil de escalar.*
+* *Arquitectura limpia (Clean Architecture) y principios SOLID para promover un código modular, desacoplado y fácil de escalar.*
 
-*JavaScript moderno (ES6+), TypeScript, y herramientas del ecosistema frontend.*
+* *JavaScript moderno (ES6+), TypeScript, y herramientas del ecosistema frontend.*
 
-*Control de versiones con Git y flujos de trabajo profesionales con GitHub.*
+* *Control de versiones con Git y flujos de trabajo profesionales con GitHub.*
 
-*Enfoque en componentes reutilizables, responsividad, y accesibilidad web*
+* *Enfoque en componentes reutilizables, responsividad, y accesibilidad web*
 
