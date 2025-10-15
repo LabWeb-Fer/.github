@@ -1,12 +1,22 @@
-## Hi there 👋
+## Hi ,I am Hector Fernando Calisaya ,soy Analista de Datos y Desarrollador Web 👋
 
  
 
-**Here are some ideas to get you started:**
+**Proyectos Web:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Este espacio está dedicado al desarrollo profesional en tecnologías web modernas, con un enfoque sólido en la creación de soluciones escalables, mantenibles y bien estructuradas. Aquí encontrarás proyectos y recursos que reflejan buenas prácticas en programación, principios de diseño de software y una orientación clara hacia el desarrollo de aplicaciones robustas.
+
+💻 Tecnologías y enfoques destacados:
+
+React.js para la construcción de interfaces dinámicas y eficientes.
+
+Testing orientado al desarrollo (TDD) para asegurar código confiable y con bajo acoplamiento.
+
+Arquitectura limpia (Clean Architecture) y principios SOLID para promover un código modular, desacoplado y fácil de escalar.
+
+JavaScript moderno (ES6+), TypeScript, y herramientas del ecosistema frontend.
+
+Control de versiones con Git y flujos de trabajo profesionales con GitHub.
+
+Enfoque en componentes reutilizables, responsividad, y accesibilidad web
 
