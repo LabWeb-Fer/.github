@@ -1,6 +1,6 @@
 ## Hi ,I am Hector Fernando Calisaya ,soy Analista de Datos y Desarrollador Web 👋
 
-Este espacio está dedicado al desarrollo profesional en tecnologías web modernas, con un enfoque sólido en la creación de soluciones escalables, mantenibles y bien estructuradas. Aquí encontrarás proyectos y recursos que reflejan buenas prácticas en programación, principios de diseño de software y una orientación clara hacia el desarrollo de aplicaciones robustas.
+Este espacio está dedicado al desarrollo  en tecnologías web modernas, con un enfoque sólido en la creación de soluciones escalables, mantenibles y bien estructuradas. Enfocado en proyectos y recursos que reflejen buenas prácticas en programación, principios de diseño de software y una orientación clara hacia el desarrollo de aplicaciones robustas.
 
 💻 **Tecnologías y enfoques destacados:**
 
